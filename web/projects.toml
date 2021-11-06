@@ -1,0 +1,34 @@
+Title = "Vagabonding (WIP)"
+Description = "Topdown 2D Survivalite game about being a vagabond somewhere early 1900. Based on a book mentioned by Art of manliness"
+Phase = 1
+[Steps]
+1 = "Fleshing out the concept"
+Remaining = "~3"
+Financed = 0
+FinanceLimit = 10
+
+Title: 2 layer mecha battle (WIP)
+Description: Multiplayer shooter/ Fighting game that happens in two layers. Micro is a shooter where soldiers shot enemies, repair their walker and board the enemy walker to do damage.
+Macro is a brawler, where the commanding crew control the walker to input CQC commands and coordinate assault teams.
+[Phase: 1]
+[Step: 1/~3]: Fleshing out the concept
+[Financed (Current Step): 0/10]
+
+Title: Act Raiser like (WIP)
+Description: A 2D hack and slash/city builder where you are the avatar of a god to a monotheistic themed church. The theme is gothic metal. ressources used for city building are gold, goats and younglings. 
+A stronger city also makes the avatar stronger. Defense missions, Escort missions, quests, etc. the map splits of into a star shape of different regions that need to be conquered.
+[Phase: 1]
+[Step: 1/~3]: Fleshing out the concept
+[Financed (Current Step): 0/10]
+
+Title: Perspective in beauty (WIP)
+Description: A curated platform to share beauty. Buying digital art, information about the artists, galleries, etc. 
+[Phase: 1]
+[Step: 1/~3]: Fleshing out the concept
+[Financed (Current Step): 0/10]
+
+Title: Habbit Cards
+Description:Habbit forming app that has a deck of cards for doing things like taking a walk and getting hydrated. drawing a hand multiple times during the day
+[Phase: 1]
+[Step: 1/~3]: Fleshing out the concept
+[Financed (Current Step): 0/10]
