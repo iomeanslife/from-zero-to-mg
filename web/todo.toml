@@ -1,0 +1,4 @@
+[task.rust-wasm]
+Description = "Figure out rust wasm"
+[task.payment-processors]
+Description = "connect to kofi etc. track donations to what they were for"

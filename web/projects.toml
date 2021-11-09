@@ -7,6 +7,7 @@ Phase = 1
 Remaining = "~3"
 Financed = 0
 FinanceLimit = 10
+Scope = "Advanced"
 
 [project.2]
 Title = "2 layer mecha battle (WIP)"
@@ -17,6 +18,7 @@ Phase = 1
 Remaining = "~3"
 Financed = 0
 FinanceLimit = 10
+Scope = "Impossible"
 
 [project.3]
 Title = " Act Raiser like (WIP)"
@@ -26,6 +28,7 @@ Description = "A 2D hack and slash/city builder where you are the avatar of a go
 Remaining = "~3"
 Financed = 0
 FinanceLimit = 10
+Scope = "Hard"
 
 [project.4]
 Title = "Perspective in beauty (WIP)"
@@ -35,6 +38,7 @@ Description = "A curated platform to share beauty. Buying digital art, informati
 Remaining = "~3"
 Financed = 0
 FinanceLimit = 10
+Scope = "Advanced"
 
 [project.5]
 Title = "Habbit Cards"
@@ -44,6 +48,7 @@ Description = "Habbit forming app that has a deck of cards for doing things like
 Remaining = "~3"
 Financed = 0
 FinanceLimit = 10
+Scope = "Advanced"
 
 [project.6]
 Title = "Eternal Desert (WIP)"
@@ -53,3 +58,14 @@ Description = "Game about Fighting and transporting nomads in a world where ther
 Remaining = "~3"
 Financed = 0
 FinanceLimit = 10
+Scope = "Insane"
+
+[project.7]
+Title = "Walker Sim (WIP)"
+Description = "Simple game controlling a rust bucket walker, navigating the landscape and firing artilery at targets. The walker controlls are split up and the MC has to physicially walk between controls. Walking itself happens through instructions to the pilot."
+[project.7.Steps]
+1 = "Fleshing out the concept"
+Remaining = "~3"
+Financed = 0
+FinanceLimit = 10
+Scope = "Beginner"
