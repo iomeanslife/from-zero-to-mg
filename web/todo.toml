@@ -1,4 +1,8 @@
-[task.rust-wasm]
+[rust-wasm]
 Description = "Figure out rust wasm"
-[task.payment-processors]
+
+[payment-processors]
 Description = "connect to kofi etc. track donations to what they were for"
+
+[daily-standup-youtube]
+Description = "Set up a new channel"
